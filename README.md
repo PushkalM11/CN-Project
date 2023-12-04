@@ -1,4 +1,4 @@
-# QUIC-360° Video stream
+# 360° Video streaming using DASH over QUIC
 ## How to run
 
 ### Run server
